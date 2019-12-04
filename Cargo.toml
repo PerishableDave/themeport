@@ -1,0 +1,11 @@
+[package]
+name = "themeport"
+version = "0.1.0"
+authors = ["dperedo"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+structopt = "0.3"
+quick-xml = "0.17"
